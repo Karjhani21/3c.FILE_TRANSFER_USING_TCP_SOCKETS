@@ -86,11 +86,12 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
     receive_file(filename, client_socket)
 ```
 ## OUPUT:
-```
-```
-```
-![Screenshot 2025-04-30 232427](https://github.com/user-attachments/assets/7e59256c-2ed3-46af-88cb-085e5dfba99f)
-```
+
+![Screenshot 2025-04-30 232349](https://github.com/user-attachments/assets/8011a78e-e25f-4b17-bb65-5da2ca2f8f8a)
+
+![Uploading Screenshot 2025-04-30 232427.png…]()
+
+
 
 
 ## RESULT
